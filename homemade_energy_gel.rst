@@ -56,10 +56,10 @@ Instructions
 
    #. ``if you use liquid flavor drops:`` add those *--> usually they contain some alcoholic compound, that helps the maltodextrin dissolve*
 
-   #. ``else:`` add a tiny bit(!) - like a few drops - of booze
+   #. ``else:`` add a tiny bit (!) - like a few drops - of booze
 
 
-#. blend/whisk together the fluid ingredients
+#. blend/whisk together the wet ingredients
 
 #. add scoops of solid ingredients to the wet ingredients one by one, blending/whisking in between scoops *--> otherwise, especially when whisking by hand, the maltodextrin may form clumps that take a long time to beat out*
 
