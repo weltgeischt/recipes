@@ -90,6 +90,6 @@ Instructions
    *  just try adding a bit of lemon juice or aroma stuff you find at
       the baking section
 
-   *  replace a bit of the water with juice (orange?) or green tea??? or lemonade?
+   *  replace a bit of the water with juice (orange?) or green tea??? or lemonade?, beer?!
 
    *  just do it without flavor!
