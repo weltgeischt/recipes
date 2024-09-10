@@ -39,7 +39,7 @@ Ingredients
 
 *  opt: caffeine *--> aim for 25 mg of caffeine per gel, you can get it as powder or crush pills*
 
-*  opt: pinch of baking soda
+*  opt: pinch of sodium bicarbonate, or baking powder 
 
 *  opt: pinch of salt
 
