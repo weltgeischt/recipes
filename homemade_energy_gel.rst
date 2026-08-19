@@ -39,9 +39,9 @@ Ingredients
 
 *  opt: caffeine *--> aim for 25 mg of caffeine per gel, you can get it as powder or crush pills*
 
-*  opt: pinch of baking soda
+*  opt: pinch of sodium bicarbonate, or baking powder 
 
-*  opt: pinch of pink salt
+*  opt: pinch of salt
 
 
 Instructions
@@ -65,9 +65,9 @@ Instructions
 
 #. blend/whisk until you have a smooth mixture; try how it tastes - you can add more flavor if it is too bland
 
-#. opt: if you want it to be it chocolaty/peanutty, you can now add peanut butter and or chocolate and blend it
+#. opt: if you want it to be chocolaty/peanutty, you can now add peanut butter and or chocolate and blend it
 
-#. Fill into jars (I use ~500 ml) and put in the fridge/freeze
+#. Fill into jars (I use ~500 ml) and store in the fridge/freezer
 
 
 .. _flavoring:
