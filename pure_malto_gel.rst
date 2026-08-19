@@ -6,6 +6,7 @@ Objective
 
 A concentrated and low-viscosity gel for the fructose intolerant and those who don't like it overly sweet.
 Avoid GI issues associated with sodium bicarbonate.
+
 **Note:** I believe you can make it even more concentrated to save water weight.
 
 
@@ -36,7 +37,9 @@ Nutrition facts
 * recipe results in ~670 ml gel
 * (0.64 g carbs)/(g gel)
 * (0.75 g carbs)/(mL gel)
+
 **Comparison**: GU gels have ~ (0.7g carbs)/(g gel).
+
 **Beware**: GU and many other commercial gels contain fructose as well to make use of two intestinal absorption pathways.
 This gel relies on only one pathway, potentially reducing max carb absorption rate per unit gel.
 
