@@ -16,7 +16,7 @@ Ingredients
 * 500 g maltodextrin
 * 300 mL water (preferably lukewarm)
 * salt according to individual needs, e.g. 8 g sodium citrate, 1 g potassium citrate
-* optional: sugar- and sweetener-free flavor drops, or just lemon juice
+* flavoring (optional): sugar- and sweetener-free flavor drops, or just lemon juice
 
 
 Directions
