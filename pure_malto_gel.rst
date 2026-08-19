@@ -38,7 +38,7 @@ Nutrition facts
 * (0.64 g carbs)/(g gel)
 * (0.75 g carbs)/(mL gel)
 
-**Comparison**: GU gels have ~ (0.7g carbs)/(g gel).
+**Comparison**: GU gels have ~ (0.7g carbs)/(g gel). Maurten 100 has (0.63 g carbs)/(g gel).
 
 **Beware**: GU and many other commercial gels contain fructose as well to make use of two intestinal absorption pathways.
 This gel relies on only one pathway, potentially reducing max carb absorption rate per unit gel.
